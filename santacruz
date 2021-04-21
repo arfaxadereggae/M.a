@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV
+http://lb.kstream.org/aovivo/SD_UDHASKDN_1/video.m3u8?token=572dc356cd9d626c4e907cb9aa248cd5
+#EXTINF:-1 type="stream" tvg-id="SporTV HD" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV HD
+http://lb.kstream.org/aovivo/HD_SOKASJDH_1/video.m3u8?token=572dc356cd9d626c4e907cb9aa248cd5
