@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 type="https://dcb-livedash-perform.secure.footprint.net/1c376oaafpn201sk1jk0yeopkm/all/dash/avc_dash_global-video=6499968-974849013768.dash?outlet=dazn-latin
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/VphnB4w/B-Combate-SD.png" group-title="Esporte",Combate
 http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
 #EXTINF:-1 type="stream" tvg-id="Combate FHD" tvg-logo="https://i.ibb.co/jTrn2t4/B-Combate-FHD.png" group-title="Esporte",Combate FHD
@@ -8,3 +7,12 @@ http://lb.kstream.org/aovivo/FHD_COMBATE/video.m3u8?token=78b4ee219585d6cbbe7a92
 http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
 #EXTINF:-1 type="stream" tvg-id="Combate HD [Alter]" tvg-logo="https://i.ibb.co/vxjFxm1/G-Combate-HD.png" group-title="Esporte",Combate HD [Alter]
 http://lb.kstream.org/aovivo/HD_COMBATE_ALTER/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
+#EXTINF:-1 tvg-id="SEM EPG" tvg-name="DAZN" tvg-logo="http://work.mailgold.ch/files/imagem_canal/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN
+http://list.deeplist.nl:80/LOA18550/1624747998/73570
+#EXTINF:-1 tvg-id="SEM EPG" tvg-name="DAZN 2" tvg-logo="http://work.mailgold.ch/files/imagem_canal/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN 2
+http://list.deeplist.nl:80/LOA18550/1624747998/73572
+#EXTINF:-1 tvg-id="SEM EPG" tvg-name="DAZN 3" tvg-logo="http://work.mailgold.ch/files/imagem_canal/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN 3
+http://list.deeplist.nl:80/LOA18550/1624747998/73573
+#EXTINF:-1 tvg-id="SEM EPG" tvg-name="DAZN 4" tvg-logo="http://work.mailgold.ch/files/imagem_canal/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN 4
+http://list.deeplist.nl:80/LOA18550/1624747998/73574
+#EXTINF:-1 tvg-id="SEM EPG" tvg-name="DAZN FULL" tvg-logo="http://work.mailgold.ch/files/imagem_canal/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN FULL
