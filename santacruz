@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1 type="stream" tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/DGchSv3/B-DAZN-HD.png" group-title="Esporte",DAZN 1 HD
-http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=979057f0a6b949b2bd216a6b4a395c51
-#EXTINF:-1 type="stream" tvg-id="DAZN 1 HD [Alter]" tvg-logo="https://i.ibb.co/t8RTX4R/G-DAZN-HD.png" group-title="Esporte",DAZN 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_DAZN_1_ALTER/video.m3u8?token=979057f0a6b949b2bd216a6b4a395c51
-#EXTINF:-1 type="stream" tvg-id="DAZN 2 HD" tvg-logo="https://i.ibb.co/DGchSv3/B-DAZN-HD.png" group-title="Esporte",DAZN 2 HD
-http://lb.kstream.org/aovivo/HD_DAZN_2/video.m3u8?token=979057f0a6b949b2bd216a6b4a395c51
-#EXTINF:-1 type="stream" tvg-id="DAZN 2 HD [Alter]" tvg-logo="https://i.ibb.co/t8RTX4R/G-DAZN-HD.png" group-title="Esporte",DAZN 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_DAZN_2_ALTER/video.m3u8?token=979057f0a6b949b2bd216a6b4a395c51
-#EXTINF:-1 type="stream" tvg-id="DAZN 3 HD" tvg-logo="https://i.ibb.co/DGchSv3/B-DAZN-HD.png" group-title="Esporte",DAZN 3 HD
-http://lb.kstream.org/aovivo/HD_DAZN_3/video.m3u8?token=979057f0a6b949b2bd216a6b4a395c51
-#EXTINF:-1 type="stream" tvg-id="DAZN 3 HD [Alter]" tvg-logo="https://i.ibb.co/t8RTX4R/G-DAZN-HD.png" group-title="Esporte",DAZN 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_DAZN_3_ALTER/video.m3u8?token=979057f0a6b949b2bd216a6b4a395c51
-#EXTINF:-1 type="stream" tvg-id="DAZN 4 HD" tvg-logo="https://i.ibb.co/DGchSv3/B-DAZN-HD.png" group-title="Esporte",DAZN 4 HD
-http://lb.kstream.org/aovivo/HD_DAZN_4/video.m3u8?token=979057f0a6b949b2bd216a6b4a395c51
-#EXTINF:-1 type="stream" tvg-id="DAZN 4 HD [Alter]" tvg-logo="https://i.ibb.co/t8RTX4R/G-DAZN-HD.png" group-title="Esporte",DAZN 4 HD [Alter]
-http://lb.kstream.org/aovivo/HD_DAZN_4_ALTER/video.m3u8?token=979057f0a6b949b2bd216a6b4a395c51
+#EXTINF:-1 tvg-id="SEM EPG" tvg-name="DAZN" tvg-logo="http://work.mailgold.ch/files/imagem_canal/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN
+http://list.deeplist.nl:80/LOA18550/1624747998/73570
+#EXTINF:-1 tvg-id="SEM EPG" tvg-name="DAZN 2" tvg-logo="http://work.mailgold.ch/files/imagem_canal/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN 2
+http://list.deeplist.nl:80/LOA18550/1624747998/73572
+#EXTINF:-1 tvg-id="SEM EPG" tvg-name="DAZN 3" tvg-logo="http://work.mailgold.ch/files/imagem_canal/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN 3
+http://list.deeplist.nl:80/LOA18550/1624747998/73573
+#EXTINF:-1 tvg-id="SEM EPG" tvg-name="DAZN 4" tvg-logo="http://work.mailgold.ch/files/imagem_canal/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN 4
+http://list.deeplist.nl:80/LOA18550/1624747998/73574
+#EXTINF:-1 tvg-id="SEM EPG" tvg-name="DAZN FULL" tvg-logo="http://work.mailgold.ch/files/imagem_canal/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN FULL
+http://list.deeplist.nl:80/LOA18550/1624747998/73571
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/VphnB4w/B-Combate-SD.png" group-title="Esporte",Combate
 http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=979057f0a6b949b2bd216a6b4a395c51
 #EXTINF:-1 type="stream" tvg-id="Combate FHD" tvg-logo="https://i.ibb.co/jTrn2t4/B-Combate-FHD.png" group-title="Esporte",Combate FHD
