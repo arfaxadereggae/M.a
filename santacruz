@@ -1,20 +1,5 @@
 #EXTM3U
-#EXTINF:-1 type="stream" tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/DGchSv3/B-DAZN-HD.png" group-title="Esporte",DAZN 1 HD
-http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
-#EXTINF:-1 type="stream" tvg-id="DAZN 1 HD [Alter]" tvg-logo="https://i.ibb.co/t8RTX4R/G-DAZN-HD.png" group-title="Esporte",DAZN 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_DAZN_1_ALTER/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
-#EXTINF:-1 type="stream" tvg-id="DAZN 2 HD" tvg-logo="https://i.ibb.co/DGchSv3/B-DAZN-HD.png" group-title="Esporte",DAZN 2 HD
-http://lb.kstream.org/aovivo/HD_DAZN_2/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
-#EXTINF:-1 type="stream" tvg-id="DAZN 2 HD [Alter]" tvg-logo="https://i.ibb.co/t8RTX4R/G-DAZN-HD.png" group-title="Esporte",DAZN 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_DAZN_2_ALTER/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
-#EXTINF:-1 type="stream" tvg-id="DAZN 3 HD" tvg-logo="https://i.ibb.co/DGchSv3/B-DAZN-HD.png" group-title="Esporte",DAZN 3 HD
-http://lb.kstream.org/aovivo/HD_DAZN_3/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
-#EXTINF:-1 type="stream" tvg-id="DAZN 3 HD [Alter]" tvg-logo="https://i.ibb.co/t8RTX4R/G-DAZN-HD.png" group-title="Esporte",DAZN 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_DAZN_3_ALTER/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
-#EXTINF:-1 type="stream" tvg-id="DAZN 4 HD" tvg-logo="https://i.ibb.co/DGchSv3/B-DAZN-HD.png" group-title="Esporte",DAZN 4 HD
-http://lb.kstream.org/aovivo/HD_DAZN_4/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
-#EXTINF:-1 type="stream" tvg-id="DAZN 4 HD [Alter]" tvg-logo="https://i.ibb.co/t8RTX4R/G-DAZN-HD.png" group-title="Esporte",DAZN 4 HD [Alter]
-http://lb.kstream.org/aovivo/HD_DAZN_4_ALTER/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
+#EXTINF:-1 type="https://dcb-livedash-perform.secure.footprint.net/1c376oaafpn201sk1jk0yeopkm/all/dash/avc_dash_global-video=6499968-974849013768.dash?outlet=dazn-latin
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/VphnB4w/B-Combate-SD.png" group-title="Esporte",Combate
 http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=78b4ee219585d6cbbe7a92fd6f742cfa
 #EXTINF:-1 type="stream" tvg-id="Combate FHD" tvg-logo="https://i.ibb.co/jTrn2t4/B-Combate-FHD.png" group-title="Esporte",Combate FHD
